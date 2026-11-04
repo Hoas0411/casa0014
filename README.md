@@ -91,7 +91,7 @@ Each reading is compared with the one before, then split into three levels:
 change = √(dx² + dy² + dz²)
 ```
 
-<img src="img/test_shake_colours.png" width="70%" alt="Still is green, gentle shake is blue, strong shake is red">
+Still = green, gentle shake = blue, strong shake = red.
 
 ### 5. Cut the cable
 

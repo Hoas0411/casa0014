@@ -200,4 +200,4 @@ I first tried writing the code myself, then used Claude (Anthropic) as a tutor:
 
 To avoid relying on AI too much, I split the project into small steps (connect to the lamp, read the sensor, detect a shake, map the LEDs, and so on) and got each one working and understood before moving on. Each step is its own sketch in `code/`.
 
-The idea, sketches, the first code, wiring, soldering, the enclosure and all testing on the real lamp are my own. AI also helped tidy the final code.
+The idea, sketches, the first code, wiring, soldering, the enclosure and all testing on the real lamp are my own. AI also helped tidy the final code. The grid animations were made with AI, because a screenshot can't show how the light moves. They use the same maths as the final code.
